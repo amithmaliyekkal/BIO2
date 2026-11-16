@@ -1,0 +1,8 @@
+{
+  "name": "Virtual Biosensor Lab",
+  "description": "Interactive educational simulation of an enzymatic glucose biosensor for Biology for Engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
